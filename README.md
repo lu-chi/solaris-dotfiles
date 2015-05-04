@@ -1,1 +1,3 @@
-# Solaris dotfiles.
+# Basic solaris dotfiles. 
+## Usage:
+   - tbd
